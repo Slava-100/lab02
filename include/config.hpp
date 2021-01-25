@@ -1,4 +1,4 @@
-// Copyright 2021 Your Name <your_email>
+// Copyright 2021 Slava-100 <svat.strel.2001@gmail.com>
 
 #ifndef INCLUDE_CONFIG_HPP_
 #define INCLUDE_CONFIG_HPP_
