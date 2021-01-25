@@ -22,5 +22,4 @@ class Experiment {
   std::string travelOrderName;
 };
 
-
-#endif // INCLUDE_EXPERIMENT_HPP_
+#endif  // INCLUDE_EXPERIMENT_HPP_

@@ -3,7 +3,6 @@
 #ifndef INCLUDE_SCHEDULER_HPP_
 #define INCLUDE_SCHEDULER_HPP_
 
-
 #include <experiment.hpp>
 #include <ostream>
 #include <vector>

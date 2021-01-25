@@ -2,10 +2,10 @@
 
 #include <gtest/gtest.h>
 
-#include <experiment.hpp>
-#include <scheduler.hpp>
 #include <config.hpp>
+#include <experiment.hpp>
 #include <iostream>
+#include <scheduler.hpp>
 
 TEST(Example, EmptyTest) {
   Scheduler scheduler(CacheSizes);

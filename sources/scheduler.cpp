@@ -1,8 +1,8 @@
 // Copyright 2021 Your Name <your_email>
 
+#include <config.hpp>
 #include <experiment.hpp>
 #include <scheduler.hpp>
-#include <config.hpp>
 #include <vector>
 
 Scheduler::Scheduler(const std::vector<std::size_t> &cacheSizes) {
